@@ -3,3 +3,7 @@ body {
     color: red;
     font-size: 16rem;
 }
+
+html {
+    font-size: 3rem;
+}
